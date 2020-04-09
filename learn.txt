@@ -1,4 +1,3 @@
 我创建了一个文本文件
-<<<<<<< HEAD
+[bug]
 Create a new branch is quick and simple.
-分支管理策略
